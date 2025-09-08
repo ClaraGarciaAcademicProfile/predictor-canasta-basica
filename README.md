@@ -205,4 +205,4 @@ Clara Victoria García Chávez, como proyecto final del Diplomado en Ciencia de 
 
 ## Actualizaciones
 
-- **v1.0** (Septiembre 2025): Versión inicial con modelo SVM y interfaz gráfica completa
+- **v1.0** (Septiembre 2025): Versión inicial con modelo SVM e interfaz gráfica
