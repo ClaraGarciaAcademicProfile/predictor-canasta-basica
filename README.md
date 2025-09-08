@@ -1,4 +1,4 @@
-# Predictor de Precios de Productos de Canasta Básica
+# Predictor de precios de productos de canasta básica
 
 Una aplicación de escritorio desarrollada en Python que predice precios futuros de productos de canasta básica (específicamente aguacate) utilizando un modelo de Support Vector Machine (SVM). La aplicación cuenta con una interfaz gráfica amigable desarrollada en Tkinter que permite realizar predicciones, análisis estadísticos y generar reportes.
 
@@ -131,8 +131,6 @@ El modelo utiliza múltiples tipos de características:
 - **Volatilidad**: Desviación estándar móvil
 - **Diferencias**: Cambios en precios entre períodos
 
-![Rendimiento del modelo](assets/screenshots/screenshot_model_performance.jpeg)
-
 ### Métricas de rendimiento
 
 - **R² Score**: 0.997 (coeficiente de determinación)
@@ -201,10 +199,6 @@ El código está organizado en módulos:
 - `src/app/main.py`: Interfaz gráfica principal
 - `src/models/predictor.py`: Lógica del modelo SVM
 - `src/utils/data_handler.py`: Utilidades para manejo de datos
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## Autor
 Clara Victoria García Chávez, como proyecto final del Diplomado en Ciencia de Datos.
